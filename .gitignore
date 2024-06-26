@@ -1,0 +1,4 @@
+Debug/
+
+# ignore all .a files
+*.a
